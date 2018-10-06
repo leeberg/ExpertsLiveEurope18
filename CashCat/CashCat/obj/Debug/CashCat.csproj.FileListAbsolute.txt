@@ -1,0 +1,15 @@
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\bin\Debug\CashCat.exe.config
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\bin\Debug\CashCat.exe
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\bin\Debug\CashCat.pdb
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\MainWindow.g.cs
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\App.g.cs
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\CashCat_MarkupCompile.cache
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\CashCat_MarkupCompile.lref
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\MainWindow.baml
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\CashCat.g.resources
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\CashCat.Properties.Resources.resources
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\CashCat.csproj.GenerateResource.cache
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\CashCat.csproj.CoreCompileInputs.cache
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\CashCat.exe
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\CashCat.pdb
+C:\Users\lee\Documents\Visual Studio 2017\Projects\CashCat\CashCat\obj\Debug\CashCat.csprojAssemblyReference.cache
